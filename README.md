@@ -99,8 +99,3 @@ five level settings, matching the number of VQ/LGQ code-count sweeps.  Metrics
 include collapse index, instability index, strong pass rate, Hamming separation,
 angular error, and latent reconstruction error.
 
-## Suggested Paper Use
-
-Use Experiments 1 and 2 in the main text if space allows.  Place Experiments 3
-and 4 in the appendix as mechanism checks.  Use Experiment 5 as the real
-tokenizer diagnostic that makes the ML relevance concrete.
